@@ -1,0 +1,52 @@
+module.exports = {
+  purge: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
+  darkMode: false, // or 'media' or 'class'
+  theme: {
+    extend: {
+      backgroundColor: ["active"],
+      backgroundImage: {
+        sclogo: "url('../src/assets/sclogo1.png')",
+        stock2: "url('../src/assets/stock-background/background2.jpg')",
+        stock3: "url('../src/assets/stock-background/background3.jpg')",
+      },
+      transitionDelay: {
+        0: "0ms",
+        2000: "2000ms",
+      },
+    },
+    scale: {
+      0: "0",
+      25: ".25",
+      50: ".5",
+      75: ".75",
+      90: ".9",
+      95: ".95",
+      100: "1",
+      105: "1.05",
+      110: "1.1",
+      125: "1.25",
+      150: "1.5",
+      200: "2",
+    },
+    order: {
+      first: "-9999",
+      last: "9999",
+      none: "0",
+      normal: "0",
+      1: "1",
+      2: "2",
+      3: "3",
+      4: "4",
+      5: "5",
+      6: "6",
+      7: "7",
+      8: "8",
+      9: "9",
+      10: "10",
+      11: "11",
+      12: "12",
+    },
+  },
+  variants: {},
+  plugins: [],
+};

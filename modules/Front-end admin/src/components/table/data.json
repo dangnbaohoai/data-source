@@ -1,0 +1,121 @@
+[
+    {
+        "userId": null,
+        "code": 4905,
+        "userName": "mpurseglove0",
+        "password": null,
+        "fullName": "Max Purseglove",
+        "email": "mpurseglove0@pcworld.com",
+        "dateOfBirth": "2002-06-30",
+        "gender": "Nu",
+        "addressOfUser": "110 Oriole Junction",
+        "numberPhone": "6598981604",
+        "position": "Student",
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/school-conection.appspot.com/o/avatar_mac_dinh.png?alt=media&token=cffd2f64-f96a-453c-848e-a7a6d042ea85",
+        "roles": [
+            "CENSOR"
+        ]
+    },
+    {
+        "userId": null,
+        "code": 1148,
+        "userName": "ndesseine3",
+        "password": null,
+        "fullName": "Natty Desseine",
+        "email": "ndesseine3@umn.edu",
+        "dateOfBirth": "2002-10-14",
+        "gender": "Nam",
+        "addressOfUser": "217 Randy Avenue",
+        "numberPhone": "3005375646",
+        "position": "Teacher",
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/school-conection.appspot.com/o/avatar_mac_dinh.png?alt=media&token=cffd2f64-f96a-453c-848e-a7a6d042ea85",
+        "roles": [
+            "USER"
+        ]
+    },
+    {
+        "userId": null,
+        "code": 5334,
+        "userName": "aculpan4",
+        "password": null,
+        "fullName": "Arabelle Culpan",
+        "email": "aculpan4@usnews.com",
+        "dateOfBirth": "2002-12-18",
+        "gender": "Nam",
+        "addressOfUser": "689 Johnson Avenue",
+        "numberPhone": "3616395050",
+        "position": "Teacher",
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/school-conection.appspot.com/o/avatar_mac_dinh.png?alt=media&token=cffd2f64-f96a-453c-848e-a7a6d042ea85",
+        "roles": [
+            "CENSOR"
+        ]
+    },
+    {
+        "userId": null,
+        "code": 3260,
+        "userName": "tbruntje5",
+        "password": null,
+        "fullName": "Twila Bruntje",
+        "email": "tbruntje5@netvibes.com",
+        "dateOfBirth": "2002-06-15",
+        "gender": "Nu",
+        "addressOfUser": "694 Hoard Pass",
+        "numberPhone": "4911832006",
+        "position": "Teacher",
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/school-conection.appspot.com/o/avatar_mac_dinh.png?alt=media&token=cffd2f64-f96a-453c-848e-a7a6d042ea85",
+        "roles": [
+            "USER"
+        ]
+    },
+    {
+        "userId": null,
+        "code": 2338,
+        "userName": "jcubley6",
+        "password": null,
+        "fullName": "Joan Cubley",
+        "email": "jcubley6@hp.com",
+        "dateOfBirth": "2001-02-06",
+        "gender": "Nu",
+        "addressOfUser": "9708 Saint Paul Pass",
+        "numberPhone": "3291467586",
+        "position": "Student",
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/school-conection.appspot.com/o/avatar_mac_dinh.png?alt=media&token=cffd2f64-f96a-453c-848e-a7a6d042ea85",
+        "roles": [
+            "CENSOR"
+        ]
+    },
+    {
+        "userId": null,
+        "code": 7352,
+        "userName": "bdommett7",
+        "password": null,
+        "fullName": "Bradney Dommett",
+        "email": "bdommett7@hao123.com",
+        "dateOfBirth": "2002-03-11",
+        "gender": "Nam",
+        "addressOfUser": "729 Jay Plaza",
+        "numberPhone": "6314467293",
+        "position": "Teacher",
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/school-conection.appspot.com/o/avatar_mac_dinh.png?alt=media&token=cffd2f64-f96a-453c-848e-a7a6d042ea85",
+        "roles": [
+            "USER"
+        ]
+    },
+    {
+        "userId": null,
+        "code": 1126,
+        "userName": "minglese8",
+        "password": null,
+        "fullName": "Malinde Inglese",
+        "email": "minglese8@php.net",
+        "dateOfBirth": "2000-12-30",
+        "gender": "Nam",
+        "addressOfUser": "1 Rigney Drive",
+        "numberPhone": "7887824625",
+        "position": "Teacher",
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/school-conection.appspot.com/o/avatar_mac_dinh.png?alt=media&token=cffd2f64-f96a-453c-848e-a7a6d042ea85",
+        "roles": [
+            "CENSOR"
+        ]
+    }
+]

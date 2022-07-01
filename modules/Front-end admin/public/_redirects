@@ -1,0 +1,5 @@
+# Netlify settings for single-page application
+/api/* https://school-connection.herokuapp.com/api/:splat 200
+/*    /index.html   200
+
+

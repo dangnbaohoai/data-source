@@ -1,0 +1,81 @@
+{
+  "name": "School_connect",
+  "version": "0.1.2",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "heroku-postbuild": "vue-cli-service build",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@itadori/vue-picture-swipe-control": "^1.1.10",
+    "@tiptap/core": "^2.0.0-beta.118",
+    "@tiptap/extension-image": "^2.0.0-beta.19",
+    "@tiptap/starter-kit": "^2.0.0-beta.117",
+    "@tiptap/vue-3": "^2.0.0-beta.67",
+    "@vue/devtools": "^5.3.4",
+    "axios": "^0.23.0",
+    "core-js": "^3.6.5",
+    "cros": "^1.0.1",
+    "express": "^4.17.1",
+    "firebase": "^9.4.1",
+    "infinite-loading-vue3": "^1.0.1",
+    "javascript-time-ago": "^2.3.10",
+    "jquery": "^3.6.0",
+    "mitt": "^3.0.0",
+    "notiwind": "^1.2.4",
+    "primeicons": "^5.0.0",
+    "primevue": "^3.10.0",
+    "sass": "^1.42.1",
+    "sass-loader": "10.1.1",
+    "vue": "^3.0.0",
+    "vue-password-strength-meter": "^1.7.2",
+    "vue-picture-swipe": "^2.1.0",
+    "vue-router": "^4.0.0-0",
+    "vue-simple-password-meter": "^1.1.0",
+    "vuex": "^4.0.0-0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "autoprefixer": "^9",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-vue": "^7.0.0",
+    "postcss": "^7",
+    "prettier": "^2.2.1",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/vue3-essential",
+      "eslint:recommended",
+      "@vue/prettier"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "engines": {
+    "yarn": "1.22.11"
+  },
+  "dev": "webpack-dev-server --inline --progress --port 8080 --host 0.0.0.0 --config vue.config.js --public $C9_HOSTNAME"
+}
